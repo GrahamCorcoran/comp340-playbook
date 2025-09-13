@@ -1,0 +1,6 @@
+[book]
+authors = ["Graham Corcoran"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Systems Design & Analysis"
