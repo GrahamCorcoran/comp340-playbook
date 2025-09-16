@@ -7,20 +7,19 @@ Across Software Development, there are many different ways to organize work. Som
 
 The SDLC is broken up into several phases. Depending on the context, source, and methadology you'll often see a number between 5-7 phases. This is due to the fact that with different frameworks and methodologies, you can have fewer or different phases. For example, when using Test-Driven-Development, the "Development" phase often includes testing first, then development, then validation. For the purpose of this course, we have broken the SDLC into a *five-phase* model to balance simplicity with completeness.
 
-**1. Requirements Gathering and Analysis**
-
+**1. Requirements Gathering and Analysis:**
 Understanding what the stakeholders actually need, and defining the goals of the system. This can involve interviews, workshops, documentation, and establishes functional and non-functional requirements. 
 
-**2. Systems Design**
+**2. Systems Design:**
 Translating requirements into a "blueprint" for development. This phase produces technical designs such as architecture diagrams, database schemas, and other mockups.
 
-**3. Development, Validation, Testing** 
+**3. Development, Validation, Testing:** 
 This is where the code is actually written, the features are actually built, and the work is validated to ensure it's working as expected. This phase is the most *cyclical* of all the phases, and often includes iterative testing alongside development.
 
-**4. Deployment**
+**4. Deployment:**
 Delivering the software into a live environment where it can be used by real users. 
 
-**5. Maintenance**
+**5. Maintenance:**
 The ongoing process of resolving bugs, adding new features, and ensuring the system continues to meet user needs as requirements evolve over time. 
 
 ```admonish info title="The SDLC Phases are Cyclical"
