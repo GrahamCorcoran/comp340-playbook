@@ -13,7 +13,7 @@
         - [Agile Methodologies]()
     - [Deployment]()
     - [Maintenance]()
-- [AI In the Software Development Lifecycle]()
+- [AI In the Software Development Lifecycle](./module1/ai_in_sdlc.md)
 
 # Module 2: Static Design 
 - [Static Design]()
