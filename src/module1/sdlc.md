@@ -5,7 +5,7 @@ Across Software Development, there are many different ways to organize work. Som
 
 ## Phases
 
-The SDLC is broken up into several phases. Depending on the context, source, and methadology you'll often see a number between 5-7 phases. This is due to the fact that with different frameworks and methodologies, you can have fewer or different phases. For example, when using Test-Driven-Development, the "Development" phase often includes testing first, then development, then validation. For the purpose of this course, we have broken the SDLC into a *five-phase* model to balance simplicity with completeness.
+The SDLC is broken up into several phases. Depending on the context, source, and methodology you'll often see a number between 5-7 phases. This is due to the fact that with different frameworks and methodologies, you can have fewer or different phases. For example, when using Test-Driven-Development, the "Development" phase often includes testing first, then development, then validation. For the purpose of this course, we have broken the SDLC into a *five-phase* model to balance simplicity with completeness.
 
 **1. Requirements Gathering and Analysis:**
 Understanding what the stakeholders actually need, and defining the goals of the system. This can involve interviews, workshops, documentation, and establishes functional and non-functional requirements. 

@@ -88,3 +88,13 @@ Postcondition:
 3. Can you recall a time when you went off the Happy Path in a program? How did the program handle it?
 4. In the example above of a postcondition, how could the Main Flow ever be completed without the postcondition being true?
 ```
+
+## Functional vs. Non-Functional Requirements
+
+In Requirements Gathering and Analysis we have to differentiate between Functional Requirements, and Non-Functional Requirements.
+
+> *Functional Requirements* describe what the system should do.
+
+> *Non-Functional Requirements* describe how well the system provides those Functional Requirements.
+
+The Functional Requirements are the core objective that your Software must achieve. They're the "must-haves". Non-Functional Requirements on the other hand are everything else that goes into your software, including security, usability, accessibility, etc.
