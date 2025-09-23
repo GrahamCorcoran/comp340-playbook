@@ -14,3 +14,7 @@ In addition, I configured:
 4. On the web-hosting side of things, I had to configure the comp340 subdomain to redirect to GitHub pages. The default domain for this book was actually [https://grahamcorcoran.github.io/comp340-playbook](https://grahamcorcoran.github.io/comp340-playbook), but I prefer to keep it easy to remember and comp340.myname.ca seemed easiest!
 
 All in all, big shoutout to the folks at mdBook for the tool, and GitHub for GitHub Pages! This whole process was very simple and I was able to get the book online and hosted within an afternoon. Now all I have to do is edit the markdown files and push my changes and the rest is handled automagically!
+
+## Notice a Typo or other mistake?
+
+Feel free to [open an issue](https://github.com/GrahamCorcoran/comp340-playbook/issues/new), if you'd like! Alternatively as always, you can email my SLC email and I'll get back to you there.
