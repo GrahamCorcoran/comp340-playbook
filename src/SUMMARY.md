@@ -10,9 +10,9 @@
     - [Systems Design](./module1/systems_design.md)
     - [Development, Validation, Testing](./module1/development.md)
         - [Plan-Driven Methodologies](./module1/plan_driven_methodologies.md)
-        - [Agile Methodologies]()
-    - [Deployment]()
-    - [Maintenance]()
+        - [Agile Methodologies](./module1/agile_methodologies.md)
+    - [Deployment](./module1/deployment.md)
+    - [Maintenance](./module1/maintenance.md)
 - [AI In the Software Development Lifecycle](./module1/ai_in_sdlc.md)
 
 # Module 2: Static Design 
