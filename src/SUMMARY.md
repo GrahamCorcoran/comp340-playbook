@@ -16,8 +16,8 @@
 - [AI In the Software Development Lifecycle](./module1/ai_in_sdlc.md)
 
 # Module 2: Static Design 
-- [Static Design]()
-    - [Domain Modeling]()
+- [Static Design](./module2/_overview.md)
+    - [Domain Modeling](./module2/domain_modeling)
     - [Database Design]()
     - [Object-Oriented Design Patterns]()
     - [Class Diagrams]()

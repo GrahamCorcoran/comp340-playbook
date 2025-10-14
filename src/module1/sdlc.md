@@ -25,5 +25,5 @@ The ongoing process of resolving bugs, adding new features, and ensuring the sys
 ```admonish info title="The SDLC Phases are Cyclical"
 A common misconception is that the phases of the SDLC happen only once, in strict sequence. In reality, most software goes through many iterations of the lifecycle. Each new feature, bug fix, or release re-enters the cycle, often looping back to earlier phases. This is true even when following a Waterfall methodology, where iteration can happen through re-work loops or maintenance cycles.
 
-Think of building a house. The first time through, you gather requirements (what kind of house?), design blueprints, build, inspect, and move in. Later, you might add a deck, remodel the kitchen, or replace the roof. Each of those improvements goes through its own mini-cycle of requirements → design → build → test → use. The house is never truly "finished", it’s just continuously maintained and improved.
+Think of building a house. The first time through, you gather requirements (what kind of house?), design blueprints, build, inspect, and move in. Later, you might add a deck, remodel the kitchen, or replace the roof. Each of those improvements goes through its own mini-cycle of requirements → design → build → test → use. The house is never truly "finished", it's just continuously maintained and improved.
 ```
