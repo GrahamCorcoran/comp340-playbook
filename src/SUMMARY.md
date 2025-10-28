@@ -17,8 +17,8 @@
 
 # Module 2: Static Design 
 - [Static Design](./module2/_overview.md)
-    - [Domain Modeling](./module2/domain_modeling)
-    - [Database Design]()
+    - [Domain Modeling](./module2/domain_modeling.md)
+    - [Database Design](./module2/database_design.md)
     - [Object-Oriented Design Patterns]()
     - [Class Diagrams]()
     - [Sequence Diagrams]()
