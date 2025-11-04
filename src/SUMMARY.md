@@ -19,7 +19,7 @@
 - [Static Design](./module2/_overview.md)
     - [Domain Modeling](./module2/domain_modeling.md)
     - [Database Design](./module2/database_design.md)
-    - [Object-Oriented Design Patterns]()
+    - [Object-Oriented Design Patterns](./module2/object_oriented_design.md)
     - [Class Diagrams]()
     - [Sequence Diagrams]()
 

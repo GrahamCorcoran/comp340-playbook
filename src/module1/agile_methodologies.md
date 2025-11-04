@@ -12,7 +12,7 @@ Agile has many specific frameworks (Scrum, Kanban, XP, etc.), which all share a 
 
 **Customer Collaboration:** Stakeholders and end-users are involved throughout the process to ensure the product meets evolving needs.
 
-**Working Software over Documentation:** While documentation isn’t ignored, Agile prioritizes delivering usable software as the main measure of progress.
+**Working Software over Documentation:** While documentation isn't ignored, Agile prioritizes delivering usable software as the main measure of progress.
 
 **Flexibility and Adaptability:** Teams are expected to respond quickly to new information, changing requirements, or shifting priorities.
 
@@ -20,7 +20,7 @@ Agile has many specific frameworks (Scrum, Kanban, XP, etc.), which all share a 
 
 ## Advantages
 
-Agile’s biggest strength is adaptability. If requirements change, teams can adjust direction quickly without waiting for an entire development cycle to complete. Because Agile delivers working software incrementally, users and stakeholders can see progress early and often, and provide feedback. This leads to products that more closely fit actual user needs. Often, Agile will reduce risk since problems are discovered earlier, and course corrections are built into the process.
+Agile's biggest strength is adaptability. If requirements change, teams can adjust direction quickly without waiting for an entire development cycle to complete. Because Agile delivers working software incrementally, users and stakeholders can see progress early and often, and provide feedback. This leads to products that more closely fit actual user needs. Often, Agile will reduce risk since problems are discovered earlier, and course corrections are built into the process.
 
 ## Disadvantages
 

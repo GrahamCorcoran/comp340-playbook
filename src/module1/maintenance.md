@@ -2,7 +2,7 @@
 
 > Maintenance is the process of keeping software reliable, secure, and useful *after* it has been deployed.
 
-Once software goes live, the work isn't done. Real users will uncover issues that weren’t found during testing, technology will change, and requirements will evolve. Maintenance ensures the system continues to meet its goals long after the initial release. Maintenance consumes the majority of a software system’s total cost over its lifetime. The effort to sustain software usually outweighs the effort to build it.
+Once software goes live, the work isn't done. Real users will uncover issues that weren't found during testing, technology will change, and requirements will evolve. Maintenance ensures the system continues to meet its goals long after the initial release. Maintenance consumes the majority of a software system's total cost over its lifetime. The effort to sustain software usually outweighs the effort to build it.
 
 ## Value and Negative Value
 In the context of Systems Design and Analysis, you can think of the contribution of each feature towards your core objective as value-adds. Picture designing a vacation rental booking service: the ability to book a rental at all is a core requirement and is essential, but the ability to filter based on price is a value-add, it's non-essential but desirable. If you can only spend $100/night, there's no point wading through dozens of listings of $350/night! From a business perspective, giving users this extra feature will likely increase the usability of your site, and make it more likely they spend money.

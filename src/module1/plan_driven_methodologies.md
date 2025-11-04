@@ -43,7 +43,7 @@ Each stage must be completed and documented before moving onto the next. This st
 
 On the left side of the V are the planning and design stages (requirements, system design, detailed design).
 
-At the bottom of the V is the Implementation (coding) phase, the “primary phase” where the system is actually built.
+At the bottom of the V is the Implementation (coding) phase, the "primary phase" where the system is actually built.
 
 On the right side of the V are the testing stages, which mirror the earlier planning:
 

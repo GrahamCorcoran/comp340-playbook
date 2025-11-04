@@ -17,11 +17,11 @@ Systems Analysis gives us a toolkit to slow down *just enough* to ask the right 
 Think of housing: if we're building a house for a client and decide on a nice, space-efficient 2-bedroom apartment but then discover on moving-day we have a family of 12 moving in, we can have the best apartment in the world but we've fundamentally not solved the problem.
 
 ```admonish info title="The XY Problem"
-Suppose a friend knows you’re a developer, and they ask how to build a web-scraping bot that can navigate a site, follow links, search for keywords, and download files. Based on that request, you might reach for a library like [Scrapy](https://www.scrapy.org/) in Python and start coding.
+Suppose a friend knows you're a developer, and they ask how to build a web-scraping bot that can navigate a site, follow links, search for keywords, and download files. Based on that request, you might reach for a library like [Scrapy](https://www.scrapy.org/) in Python and start coding.
 
 A few days later, when you ask which site they want scraped, your friend explains they just need a CSV of updated pricing from a local store. Looking at the site, you realize it has an API - so a single request could have downloaded the CSV in five minutes.  
 
-This is the [XY Problem](https://xyproblem.info/): you solved for “Y,” but what was really needed was “X.” Systems Analysis helps us uncover X before we waste time on Y.
+This is the [XY Problem](https://xyproblem.info/): you solved for "Y," but what was really needed was "X." Systems Analysis helps us uncover X before we waste time on Y.
 ```
 
 ## Target Canada
@@ -36,7 +36,7 @@ The Target Canada expansion has already been studied and will likely be talked a
 
 ### The Problems
 
-Target Canada’s troubles were multi-faceted, touching everything from supply chains to customer expectations. At the heart of it all was an overly aggressive expansion strategy: instead of piloting a handful of stores and scaling gradually, Target tried to open more than 100 locations across the country in less than two years. This left little time to adapt U.S. practices to the Canadian market, test systems thoroughly, or resolve early warning signs before they cascaded into larger failures.
+Target Canada's troubles were multi-faceted, touching everything from supply chains to customer expectations. At the heart of it all was an overly aggressive expansion strategy: instead of piloting a handful of stores and scaling gradually, Target tried to open more than 100 locations across the country in less than two years. This left little time to adapt U.S. practices to the Canadian market, test systems thoroughly, or resolve early warning signs before they cascaded into larger failures.
 
 ### Software Problems, Too!
 Target's problems went beyond business decisions and supply chain problems. There were serious software and data problems, too. Canada was Target's first attempt at international expansion, and they over-relied on our similarities and assumed there would be less internationalization headaches than there were. As part of the rollout, Target developed new software to handle the changes, but this software was riddled with probelms.

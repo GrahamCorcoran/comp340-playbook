@@ -14,7 +14,7 @@ Want an example of a live deployment pipeline? Why not take a look under the hoo
 
 **Deployment Planning:** Before release, teams prepare for how and when the system will go live. This may involve setting timelines, coordinating with stakeholders, and planning communication to users.
 
-**Deployment Environments:** Software typically moves through several environments such as development, testing, staging, and production—before reaching end users. These stages help ensure issues are caught early and not released into production.
+**Deployment Environments:** Software typically moves through several environments such as development, testing, staging, and production - before reaching end users. These stages help ensure issues are caught early and not released into production.
 
 **Deployment Models:** Different approaches exist for putting software into production. For example, a system might be rolled out gradually to a subset of users (canary release), or updated all at once across the entire user base. Cloud-based systems also allow for flexible and scalable deployment strategies compared to traditional on-premises releases.
 
