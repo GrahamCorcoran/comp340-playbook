@@ -20,7 +20,7 @@ In this stage, we:
 - Map Entities to Classes
 - Map Attributes to Properties or Fields
 - Map Relationships to References or Collections
-- Add Behaviors that define what objects can do
+- Add Behaviours that define what objects can do
 
 For example, if our domain model has a Book entity with attributes like title and author, and a Library entity that contains many books, our object model might define a Library class that includes a books list and a checkOut() method.
 
@@ -30,9 +30,9 @@ This step helps us visualize how data and logic come together, and how our syste
 
 Object-Oriented Design is built around a few foundational ideas:
 
-- **Encapsulation:** Keeping data and behavior that belong together inside the same class.
+- **Encapsulation:** Keeping data and behaviour that belong together inside the same class.
 - **Abstraction:** Hiding unnecessary details so we can focus on what an object does, rather than *how* it's done. 
-- **Inheritance:** Allowing one class to share behavior and structure with another.
+- **Inheritance:** Allowing one class to share behaviour and structure with another.
 - **Polymorphism:** Letting different classes respond to the same action in their own way.
 
 These ideas help make systems easier to extend, modify, and understand as they grow in size and complexity.

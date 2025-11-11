@@ -14,7 +14,7 @@ Depending on the organization and the development process, AI can appear at many
 
 - Development, Validation, and Testing - providing code completions, examples, or boilerplate. Generating test cases, identifying possible vulnerabilities, or flagging edge cases.
 
-- Deployment - monitoring logs or detecting anomalies in system behavior.
+- Deployment - monitoring logs or detecting anomalies in system behaviour.
 
 - Maintenance - suggesting bug fixes, dependency updates, or performance optimizations.
 
