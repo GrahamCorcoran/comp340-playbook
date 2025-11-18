@@ -23,9 +23,9 @@
     - [Sequence Diagrams](./module2/sequence_diagrams.md)
 
 # Module 3: Dynamic Design
-- [Dynamic Design]()
-    - [Activity Diagrams]()
-    - [State Diagrams]()
+- [Dynamic Design](./module3/_overview.md)
+    - [Workflow Modeling](./module3/workflow_modeling.md)
+    - [State Modeling]()
     - [System Integration]()
     - [Performance and Scalability]()
 
@@ -33,4 +33,3 @@
 ---
 
 [Resources](./resources.md)
-[Study Guides]()
