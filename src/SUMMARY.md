@@ -25,8 +25,8 @@
 # Module 3: Dynamic Design
 - [Dynamic Design](./module3/_overview.md)
     - [Workflow Modeling](./module3/workflow_modeling.md)
-    - [State Modeling]()
-    - [System Integration]()
+    - [State Modeling](./module3/state_modeling.md)
+    - [System Integration](./module3/system_integration.md)
     - [Performance and Scalability]()
 
 
